@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículo</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="container">
+        <header>
+            <h1>Guilherme dos Santos Pereira</h1>
+            <p>Email: guihsantos.1410@gmail.com | Telefone: (11) 97069-0927</p>
+            <p>Endereço: Rua Doutor Nério Nunes, 77, São Paulo, São Paulo, 05848-030</p>
+        </header>
+        <section>
+            <h2>Objetivo</h2>
+            <p>Busco fazer parte de uma empresa que me proporcione a oportunidade de ingressar no mercado de trabalho, onde poderei demonstrar meu comprometimento e habilidades, adquirindo assim conhecimentos que me ajudaram a crescer profissionalmente e contribuir de forma significativa para desenvolvimento da organização.</p>
+        </section>
+        <section>
+            <h2>Experiência profissional</h2>
+            <div class="job">
+                <h3>Nome da empresa</h3>
+                <p><strong>Cargo:</strong> Seu Cargo</p>
+                <p><strong>Período:</strong> Mês/Ano - Mês/Ano</p>
+                <p><strong>Responsabilidades:</strong></p>
+                <ul>
+                    <li>Responsabilidade 1</li>
+                    <li>Responsabilidade 2</li>
+                    <li>Responsabilidade 3</li>
+                </ul>
+            </div>
+        </section>
+        <section>
+            <h2>Educação</h2>
+            <div class="education">
+                <h3>EE Miguel Munhoz Filho Sul 2</h3>
+                <p><strong>Curso:</strong> Seu Curso</p>
+                <p><strong>Manhã:</strong> Mês/Ano - Mês/Ano</p>
+            </div>
+        </section>
+        <section>
+            <h2>Habilidades</h2>
+            <ul class="skills">
+                <li>Habilidade 1</li>
+                <li>Habilidade 2</li>
+                <li>Habilidade 3</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Projetos</h2>
+            <div class="projects">
+                <h3>Escola ZION</h3>
+                <p><strong>Descrição:</strong>A ZION é um espaço de entretenimento, que estimula a criatividade dos alunos. Onde eles podem ter acesso a nossa arena de game com consoles Xbox Serie S, PS5, uma arena VR, simuladores de corrida, Just Dance e a muito mais!.</p>
+                <p><strong>Link:</strong> <a href="http://www.escolazion.com">www.escolazion.com</a></p>
+            </div>
+        </section>
+    </div>
+</body>
+</html>
