@@ -18,11 +18,11 @@
             <p>Busco fazer parte de uma empresa que me proporcione a oportunidade de ingressar no mercado de trabalho, onde poderei demonstrar meu comprometimento e habilidades, adquirindo assim conhecimentos que me ajudaram a crescer profissionalmente e contribuir de forma significativa para desenvolvimento da organização.</p>
         </section>
         <section>
-            <h2>Experiência profissional</h2>
+            <h2>Desenvolvedor</h2>
             <div class="job">
-                <h3>Nome da empresa</h3>
-                <p><strong>Cargo:</strong> Seu Cargo</p>
-                <p><strong>Período:</strong> Mês/Ano - Mês/Ano</p>
+                <h3>Sydle</h3>
+                <p><strong>Cargo:</strong> TI</p>
+                <p><strong>Tarde:</strong> Novembro/2023 - Julho/2024</p>
                 <p><strong>Responsabilidades:</strong></p>
                 <ul>
                     <li>Responsabilidade 1</li>
