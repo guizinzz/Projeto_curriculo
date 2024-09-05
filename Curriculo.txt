@@ -18,16 +18,16 @@
             <p>Busco fazer parte de uma empresa que me proporcione a oportunidade de ingressar no mercado de trabalho, onde poderei demonstrar meu comprometimento e habilidades, adquirindo assim conhecimentos que me ajudaram a crescer profissionalmente e contribuir de forma significativa para desenvolvimento da organização.</p>
         </section>
         <section>
-            <h2>Desenvolvedor</h2>
+            <h2>Experiência profissonal</h2>
             <div class="job">
                 <h3>Sydle</h3>
-                <p><strong>Cargo:</strong> TI</p>
+                <p><strong>Desenvolvedor:</strong> TI</p>
                 <p><strong>Tarde:</strong> Novembro/2023 - Julho/2024</p>
                 <p><strong>Responsabilidades:</strong></p>
                 <ul>
-                    <li>Responsabilidade 1</li>
-                    <li>Responsabilidade 2</li>
-                    <li>Responsabilidade 3</li>
+                    <li>Programação 1</li>
+                    <li>Arrumar eletrônicos 2</li>
+                    <li>Desvendar códigos 3</li>
                 </ul>
             </div>
         </section>
@@ -35,16 +35,16 @@
             <h2>Educação</h2>
             <div class="education">
                 <h3>EE Miguel Munhoz Filho Sul 2</h3>
-                <p><strong>Curso:</strong> Seu Curso</p>
-                <p><strong>Manhã:</strong> Mês/Ano - Mês/Ano</p>
+                <p><strong>Curso:</strong> Desenvolvedor de sistemas</p>
+                <p><strong>Manhã:</strong> Fevereiro/2023 - Setembro/2024</p>
             </div>
         </section>
         <section>
             <h2>Habilidades</h2>
             <ul class="skills">
-                <li>Habilidade 1</li>
-                <li>Habilidade 2</li>
-                <li>Habilidade 3</li>
+                <li>Programação 1</li>
+                <li>Comunicativo 2</li>
+                <li>Criativo 3</li>
             </ul>
         </section>
         <section>
